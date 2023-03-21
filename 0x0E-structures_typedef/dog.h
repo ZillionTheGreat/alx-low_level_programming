@@ -8,6 +8,7 @@
 	 * @owner: Third member
 	 *
 	 * Description: Longer description
+	 *
 	 */
 	struct dog
 	{
@@ -29,5 +30,5 @@
 	int _strlen(char *s);
 
 
-	#endif
+	#endif /*STRTYP*/
 
